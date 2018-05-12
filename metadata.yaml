@@ -1,0 +1,42 @@
+_repo: My--ntonia_19810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Cather, Willa Sibert
+    - Cather, Wilella
+    - Catherova, Willa
+    - Catherová, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: ''
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Farmers'' spouses -- Fiction'
+- !lcsh 'Nebraska -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Nebraska -- Fiction'
+- !lcsh 'Women pioneers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Czech Americans -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Women immigrants -- Fiction'
+- !lcsh 'Domestic fiction'
+title: My Ántonia
+url: http://www.gutenberg.org/ebooks/19810
