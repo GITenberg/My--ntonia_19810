@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/22
     wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19810#My--ntonia
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
 identifiers:
